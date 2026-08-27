@@ -1,0 +1,36 @@
+# Compilação e Ficheiros Gerados
+*.apk
+*.aar
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+.gradle/
+build/
+app/build/
+
+# Definições Locais do Sistema (Caminhos do SDK e Chaves Locais)
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.navigation/
+captures/
+
+# Chaves de Assinatura e Ficheiros de Segurança (CRÍTICO)
+*.jks
+*.keystore
+*.pepk
+google-services.json
+
+# Ficheiros de Registo (Logs)
+*.log
+
+# Ficheiros do Sistema Operativo
+.DS_Store
+Thumbs.db
