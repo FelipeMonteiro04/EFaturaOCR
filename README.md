@@ -59,8 +59,8 @@ O executável da aplicação (ficheiro APK) encontra-se disponível para transfe
 
 ## Autor
 
-Felipe Miguel Vieira Monteiro
-Estudante de Engenharia Informática e de Computadores - Universidade de Cabo Verde
+Felipe Monteiro
+
 
 ---
 
@@ -131,8 +131,8 @@ The pre-compiled Android application package (APK file) is available for direct 
 
 ## Author
 
-Felipe Miguel Vieira Monteiro
-Computer and Informatics Engineering Student - Universidade de Cabo Verde
+Felipe Monteiro
+
 
 ---
 
